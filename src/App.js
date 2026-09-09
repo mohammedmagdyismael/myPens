@@ -1,5 +1,5 @@
 import React from 'react';
-import Calendar from './app/components/RoomView';
+import Calendar from './app/components/XML';
 import './App.css'
 
 const App = ({ ...props }) => {
